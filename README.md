@@ -2,7 +2,7 @@
 - Para  implatar una aplicación web en amazon debemos de registranos.
 - Creamos una maquina virtual con amazon EC2.
 - Abrimos puertos ssh, http y https
-- Creamos key yla descargamos.
+- Creamos key y la descargamos.
 
 ## URL repositorio
 ```
