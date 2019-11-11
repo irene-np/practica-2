@@ -1,5 +1,4 @@
-# practica-2
-# practica-2
+
 - Para  implatar una aplicación web en amazon debemos de registranos.
 - Creamos una maquina virtual con amazon EC2.
 - Abrimos puertos ssh, http y https
